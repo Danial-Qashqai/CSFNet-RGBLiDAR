@@ -39,6 +39,12 @@ For convenience, we provide the KITTI-360 subset dataset at the following links:
 - Projected LiDAR data: [Kaggle](https://www.kaggle.com/datasets/danialqashqai/kitti360-mini-projected-lidar)
 - Semantic labels: [Kaggle](https://www.kaggle.com/datasets/danialqashqai/kitti360-mini-semanticlabel)
 
+### LiDAR Projection
+
+The LiDAR point clouds are projected into the 2D image plane to generate projected LiDAR inputs. The projection process is demonstrated in:
+
+- [lidar_projection.ipynb](https://github.com/Danial-Qashqai/CSFNet-RGBLiDAR/blob/main/Projection/lidar_projection.ipynb)
+
 ### Pre-trained ImageNet Backbones
 The pre-trained weight for the [STDC1](https://github.com/MichaelFan01/STDC-Seg) backbone is available at the following links:
 - [STDC1](https://drive.google.com/file/d/1xR7Hg0CQcGyCFRgoF6vuhFNClE4ACpF_/view?usp=sharing)
