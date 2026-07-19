@@ -8,6 +8,12 @@ The proposed model is based on **CSFNet**, our previously introduced semantic se
 
 In this work, CSFNet is extended to the RGB-LiDAR domain by incorporating projected LiDAR information for multi-modal semantic segmentation.
 
+## Results
+We provide the pre-trained weights of our RGB-LiDAR semantic segmentation model.
 
+### Validation Results on a Subset of the KITTI-360 Dataset (19 Categories)
+| Architecture | Backbone | Params(M) | FPS | mIoU.half | Weight |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| CSFNet-1 | STDC1 | 11.31 | 106.2 | 47.3 | [Kaggle](https://drive.google.com/file/d/1yK1Fg7NX1zryVDQTbzIDVGnn8prxLsjY/view?usp=sharing)
 
 
