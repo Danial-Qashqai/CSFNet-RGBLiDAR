@@ -44,7 +44,9 @@ For convenience, we provide the KITTI-360 subset dataset at the following links:
 The LiDAR point clouds are projected into the 2D image plane to generate projected LiDAR inputs. The projection process is demonstrated in:
 
 - [lidar_projection.ipynb](https://github.com/Danial-Qashqai/CSFNet-RGBLiDAR/blob/main/Projection/lidar_projection.ipynb)
-  
+
+![Lidar point cloud.png.png](https://github.com/Danial-Qashqai/CSFNet-RGBLiDAR/blob/main/figures/Lidar%20point%20cloud.png)
+
 ![projection.png](https://github.com/Danial-Qashqai/CSFNet-RGBLiDAR/blob/main/figures/projection.png)
 
 ### Pre-trained ImageNet Backbones
