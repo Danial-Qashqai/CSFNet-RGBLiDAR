@@ -4,8 +4,6 @@ This repository presents **CSFNet-RGBLiDAR**, a real-time RGB-LiDAR semantic seg
 
 This work extends our previous **CSFNet** framework to the RGB-LiDAR domain. The original CSFNet implementation is available at [CSFNet](https://github.com/Danial-Qashqai/CSFNet).
 
-In this work, CSFNet is extended to the RGB-LiDAR domain by incorporating projected LiDAR information for multi-modal semantic segmentation.
-
 ## Results
 We provide the pre-trained weights of our RGB-LiDAR semantic segmentation model.
 
