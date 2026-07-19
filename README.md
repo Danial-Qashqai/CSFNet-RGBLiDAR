@@ -15,7 +15,7 @@ We provide the pre-trained weights of our RGB-LiDAR semantic segmentation model.
 ![sample.png](https://github.com/Danial-Qashqai/CSFNet-RGBLiDAR/blob/main/figures/sample.png)
 *Visual results of CSFNet-1 on KITTI-360. From top to bottom: RGB input, LiDAR projection, prediction output, and ground truth.*
 
-## Note
+### Note
 Due to hardware limitations, we trained the model on a subset of the KITTI-360 dataset. Training on the full dataset can achieve higher accuracy.
 
 ## Usage
