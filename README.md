@@ -2,7 +2,7 @@
 
 This repository presents **CSFNet-RGBLiDAR**, a real-time RGB-LiDAR semantic segmentation model trained with projected LiDAR data on a subset of the KITTI-360 dataset.
 
-This work extends our previous **CSFNet** framework to the RGB-LiDAR domain. The original CSFNet implementation is available at: [CSFNet](https://github.com/Danial-Qashqai/CSFNet)
+This work extends our previous **CSFNet** framework to the RGB-LiDAR domain. The original CSFNet implementation is available at [CSFNet](https://github.com/Danial-Qashqai/CSFNet).
 
 In this work, CSFNet is extended to the RGB-LiDAR domain by incorporating projected LiDAR information for multi-modal semantic segmentation.
 
